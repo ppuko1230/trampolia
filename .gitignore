@@ -9,5 +9,8 @@ MemoryCaptures/
 *.unityproj
 *.sln
 *.user
+.vs/
+UserSettings/
+*.dwlt
 .vscode/
 .DS_Store

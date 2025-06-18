@@ -1,0 +1,9 @@
+# 自動で改行コードを統一（LF）
+* text=auto eol=lf
+
+# UnityのYAML形式ファイル（metaなど）も明示的にLF
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.json text eol=lf

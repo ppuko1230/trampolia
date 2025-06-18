@@ -1,3 +1,4 @@
+# Unity default
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,10 +6,27 @@
 [Bb]uilds/
 [Ll]ogs/
 MemoryCaptures/
-*.csproj
-*.sln
-*.user
-*.unityproj
+
+# OS
 .DS_Store
 Thumbs.db
+
+# VS/JetBrains
 .vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+.idea/
+
+# Auto-generated
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash
+sysinfo.txt
